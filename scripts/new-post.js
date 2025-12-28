@@ -15,7 +15,7 @@ const template =
 title: "${title}"
 meta_title: ""
 description: ""
-date: "${date}"
+date: ${date}
 image: ""
 categories: []
 authors: []

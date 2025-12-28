@@ -2,7 +2,7 @@
 title: "Intro"
 meta_title: ""
 description: ""
-date: "2025-12-28"
+date: 2025-12-28
 image: ""
 categories: []
 authors: []
