@@ -2,7 +2,7 @@
   "site": {
     "title": "class14's blog",
     "base_url": "https://class0x0E.github.io",
-    "base_path": "/",
+    "base_path": "/class14",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
